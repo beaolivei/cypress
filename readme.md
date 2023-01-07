@@ -1,21 +1,19 @@
 # Cypress and Test Strategy
 
 ## Why do we create tests to start with? 
-- tests are an important part of our Quality Strategy
-- having a quality strategy help us to make sure the business does not loose money
-- bugs implemented in production may cost millions of dolars
-- a reliable path to production is composed by different flavors of testing that help us cover a broad set of scenarios
+- make sure code is working, that we are getting the expected result
+- help us to make refactors with more peace of mind 
+- it helps us reflect on best practices
 
 ## Common Test Layers: 
+- unit: functions, individual components, helper functions, service. JEST/ React Test Library
+- integration: two services that communicate, 1 user flow. Jest/ React Testing Library
+- E2E: test the entire user flow on a higher level. Cypress/ webdriver.io
 
-- UNIT: tests individual components/ functions. Help us to make sure that the individual parts are working.
-- INTEGRATION: test one specific flow. One or more component and service that interact with each other
-- E2E: test entire flows on a higher level. 
 
 ## Making the decision on which one to use
-
-- You need to understand the scope of the feature you are building: does it change the entire flow or is it particular to a unit/component/function/service scope? 
-- Important to remember: it doesn't have to be one OR another. You can decide to implement both types of tests. Companies that have a quality strategy normally have more than one testing layer.  
+ - it is no an either/or situation. The test layers can be combined for better results. 
+ - decision on where to focus efforts depends on the team, product and company structure
 
 ## Using Cypress
 
