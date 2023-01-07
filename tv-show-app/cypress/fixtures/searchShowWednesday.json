@@ -1,0 +1,470 @@
+[
+    {
+        "score": 0.9093272,
+        "show": {
+            "id": 53647,
+            "url": "https://www.tvmaze.com/shows/53647/wednesday",
+            "name": "Wednesday",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Comedy",
+                "Mystery",
+                "Supernatural"
+            ],
+            "status": "Running",
+            "runtime": null,
+            "averageRuntime": 51,
+            "premiered": "2022-11-23",
+            "ended": null,
+            "officialSite": "https://www.netflix.com/title/81231974",
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": 8.6
+            },
+            "weight": 100,
+            "network": null,
+            "webChannel": {
+                "id": 1,
+                "name": "Netflix",
+                "country": null,
+                "officialSite": "https://www.netflix.com/"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 397060,
+                "imdb": "tt13443470"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/433/1082578.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/433/1082578.jpg"
+            },
+            "summary": "<p><b>Wednesday</b> is a sleuthing, supernaturally infused mystery that follows Wednesday Addams as a student at Nevermore Academy where she attempts to master her emerging psychic ability while also thwart a monstrous killing spree terrorizing the local town and solve the supernatural mystery that embroiled her parents 25 years ago—all while navigating her new and very tangled relationships of the strange and diverse student body.</p>",
+            "updated": 1673104629,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/53647"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2382730"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.6062638,
+        "show": {
+            "id": 7819,
+            "url": "https://www.tvmaze.com/shows/7819/adult-wednesday-addams",
+            "name": "Adult Wednesday Addams",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Comedy",
+                "Horror"
+            ],
+            "status": "Ended",
+            "runtime": null,
+            "averageRuntime": 3,
+            "premiered": "2013-09-25",
+            "ended": "2015-03-11",
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Wednesday"
+                ]
+            },
+            "rating": {
+                "average": 7
+            },
+            "weight": 90,
+            "network": null,
+            "webChannel": {
+                "id": 21,
+                "name": "YouTube",
+                "country": null,
+                "officialSite": "https://www.youtube.com"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 274757,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/28/71836.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/28/71836.jpg"
+            },
+            "summary": "<p>Wednesday is all grown up and has finally moved out of her family's manor to experience adult life in Los Angeles. She looks for an apartment, goes on job interviews, internet dates and encounters some unfortunate antagonists along the way.</p>",
+            "updated": 1631644760,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/7819"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/437438"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.56432974,
+        "show": {
+            "id": 65354,
+            "url": "https://www.tvmaze.com/shows/65354/wednesday-club",
+            "name": "Wednesday Club",
+            "type": "Scripted",
+            "language": "Thai",
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "status": "In Development",
+            "runtime": null,
+            "averageRuntime": null,
+            "premiered": null,
+            "ended": null,
+            "officialSite": "https://www.gmm-tv.com/home/",
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 7,
+            "network": {
+                "id": 1095,
+                "name": "GMM25",
+                "country": {
+                    "name": "Thailand",
+                    "code": "TH",
+                    "timezone": "Asia/Bangkok"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/431/1079398.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/431/1079398.jpg"
+            },
+            "summary": null,
+            "updated": 1669156999,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/65354"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.5586615,
+        "show": {
+            "id": 28894,
+            "url": "https://www.tvmaze.com/shows/28894/wednesday-330-pm",
+            "name": "Wednesday 3:30 PM",
+            "type": "Scripted",
+            "language": "Korean",
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "status": "Ended",
+            "runtime": 25,
+            "averageRuntime": 30,
+            "premiered": "2017-06-07",
+            "ended": "2017-06-21",
+            "officialSite": "https://www.viki.com/tv/35498c-wednesday-330-pm?locale=en",
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Wednesday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 36,
+            "network": {
+                "id": 1314,
+                "name": "SBS Plus",
+                "country": {
+                    "name": "Korea, Republic of",
+                    "code": "KR",
+                    "timezone": "Asia/Seoul"
+                },
+                "officialSite": null
+            },
+            "webChannel": {
+                "id": 91,
+                "name": "Viki",
+                "country": null,
+                "officialSite": "https://www.viki.com/"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 329433,
+                "imdb": "tt7208348"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/115/287811.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/115/287811.jpg"
+            },
+            "summary": "<p><b>Wednesday 3:30 PM</b> tells the story of a woman who was dumped by her boyfriend and tries win to win back his heart by making him jealous. With her close male friend, she manipulates her social media to create a fake \"lovestagram\" (love + Instagram). The two characters are childhood friends, and a sweet romance will unfold as they begin to live together.</p>",
+            "updated": 1655722238,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/28894"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1202360"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.5164836,
+        "show": {
+            "id": 14457,
+            "url": "https://www.tvmaze.com/shows/14457/wednesday-in-parliament",
+            "name": "Wednesday in Parliament",
+            "type": "News",
+            "language": "English",
+            "genres": [
+                "Legal"
+            ],
+            "status": "Running",
+            "runtime": 30,
+            "averageRuntime": 30,
+            "premiered": "2016-03-23",
+            "ended": null,
+            "officialSite": "http://www.bbc.co.uk/programmes/b01mw321",
+            "schedule": {
+                "time": "23:00",
+                "days": [
+                    "Wednesday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 19,
+            "network": {
+                "id": 697,
+                "name": "BBC Parliament",
+                "country": {
+                    "name": "United Kingdom",
+                    "code": "GB",
+                    "timezone": "Europe/London"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": null,
+            "summary": "<p>Highlights of proceedings in Parliament.</p>",
+            "updated": 1628638061,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/14457"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1040685"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.5105767,
+        "show": {
+            "id": 28861,
+            "url": "https://www.tvmaze.com/shows/28861/the-wednesday-play",
+            "name": "The Wednesday Play",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Drama"
+            ],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "1964-10-28",
+            "ended": "1971-05-20",
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 16,
+            "network": {
+                "id": 12,
+                "name": "BBC One",
+                "country": {
+                    "name": "United Kingdom",
+                    "code": "GB",
+                    "timezone": "Europe/London"
+                },
+                "officialSite": "https://www.bbc.co.uk/bbcone"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 71836,
+                "imdb": "tt0058853"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/114/287475.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/114/287475.jpg"
+            },
+            "summary": "<p><b>The Wednesday Play</b> was an anthology series of British television plays which ran on BBC1 from October 1964 to May 1970. Every week's play was usually written for television, although adaptations from other sources also featured. The series gained a reputation for presenting contemporary social dramas, and for bringing issues to the attention of a mass audience that would not otherwise have been discussed on screen.</p>",
+            "updated": 1671977855,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/28861"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1201441"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.44497374,
+        "show": {
+            "id": 17119,
+            "url": "https://www.tvmaze.com/shows/17119/any-given-wednesday-with-bill-simmons",
+            "name": "Any Given Wednesday with Bill Simmons",
+            "type": "Talk Show",
+            "language": "English",
+            "genres": [],
+            "status": "Ended",
+            "runtime": 30,
+            "averageRuntime": 30,
+            "premiered": "2016-06-22",
+            "ended": "2016-11-09",
+            "officialSite": "http://www.hbo.com/any-given-wednesday-with-bill-simmons",
+            "schedule": {
+                "time": "22:00",
+                "days": [
+                    "Wednesday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 39,
+            "network": {
+                "id": 8,
+                "name": "HBO",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": "https://www.hbo.com/"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 310832,
+                "imdb": "tt5874840"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/250/626269.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/250/626269.jpg"
+            },
+            "summary": "<p><b>Any Given Wednesday with Bill Simmons</b> is a weekly talk show hosted by one of the most influential figures in contemporary sports media.</p><p>Spanning pop culture and touching on everything from sports and entertainment to arts and technology, Any Given Wednesday with Bill Simmons will feature intimate conversations with compelling guests each week. The show will also include field segments and Simmons' signature commentary on current events.</p>",
+            "updated": 1586349761,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/17119"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/980278"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.31177944,
+        "show": {
+            "id": 23382,
+            "url": "https://www.tvmaze.com/shows/23382/plain-but-cool-the-wednesday-when-proofreading-girl-kouno-etsuko-is-not-around",
+            "name": "Plain but cool! The Wednesday when Proofreading Girl Kouno Etsuko is not around",
+            "type": "Scripted",
+            "language": "Japanese",
+            "genres": [
+                "Comedy"
+            ],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "2016-11-30",
+            "ended": "2016-12-14",
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Wednesday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 21,
+            "network": null,
+            "webChannel": {
+                "id": 235,
+                "name": "Hulu Japan",
+                "country": {
+                    "name": "Japan",
+                    "code": "JP",
+                    "timezone": "Asia/Tokyo"
+                },
+                "officialSite": null
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/87/219492.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/87/219492.jpg"
+            },
+            "summary": "<p>Yoneoka and Fujiiwa work on the proofreading of a novel in the quiet proofreading department office when Etsuko is on annual leave and the novel's content becomes real-life footage in their minds which are criticized endlessly by the two proofreaders as the dramatisation progresses.</p>",
+            "updated": 1511111973,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/23382"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1005080"
+                }
+            }
+        }
+    }
+]

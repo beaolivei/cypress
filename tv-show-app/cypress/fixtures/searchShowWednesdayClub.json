@@ -1,0 +1,58 @@
+[
+    {
+        "score": 1.0643297,
+        "show": {
+            "id": 65354,
+            "url": "https://www.tvmaze.com/shows/65354/wednesday-club",
+            "name": "Wednesday Club",
+            "type": "Scripted",
+            "language": "Thai",
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "status": "In Development",
+            "runtime": null,
+            "averageRuntime": null,
+            "premiered": null,
+            "ended": null,
+            "officialSite": "https://www.gmm-tv.com/home/",
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 7,
+            "network": {
+                "id": 1095,
+                "name": "GMM25",
+                "country": {
+                    "name": "Thailand",
+                    "code": "TH",
+                    "timezone": "Asia/Bangkok"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/431/1079398.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/431/1079398.jpg"
+            },
+            "summary": null,
+            "updated": 1669156999,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/65354"
+                }
+            }
+        }
+    }
+]
